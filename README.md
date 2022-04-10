@@ -1,5 +1,5 @@
 - 👋 Hello, I am Nanami "Morgan" D.
-- 🌱 I’m currently learning in the Seton Hall University as a Pre-science studies major students.
+- 🌱 I’m currently learning in the Seton Hall University and majoring in computer science.
 - 📫 How to reach me: Email: daitokna@shu.edu
 
 <!---
