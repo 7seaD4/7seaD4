@@ -1,6 +1,6 @@
-- 👋 Hello, I am Nanami "Morgan" D.
-- 🌱 I’m currently learning in the Seton Hall University and majoring in computer science.
-- 📫 How to reach me: Email: daitokna@shu.edu
+- 👋 Hello, I am Nanami D.
+- 🌱 I’m studying at Tokyo City University and majoring in Informatics.
+- 📫 How to reach me: Email: nndaitokuya@gmail.com
 
 <!---
 7seaD4/7seaD4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
